@@ -55,8 +55,8 @@ def export_to_html(year, month, file_name):
         file.write("</body></html>")
 
 # Usage
-yy = 2024
-mm = 8
+yy = 2024  # Select year
+mm = 8  # Select month
 
 print_colored_calendar(yy, mm)  # Print the colored calendar for a specific month
 print_year_calendar(yy)         # Print the entire year's calendar
