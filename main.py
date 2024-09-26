@@ -62,4 +62,3 @@ print_colored_calendar(yy, mm)  # Print the colored calendar for a specific mont
 print_year_calendar(yy)         # Print the entire year's calendar
 export_to_html(yy, mm, 'calendar.html')  # Export the calendar for a specific month to HTML
 
-saifan
